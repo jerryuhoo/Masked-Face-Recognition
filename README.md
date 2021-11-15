@@ -31,7 +31,8 @@
     3. Replace the model path at contributed/face_mask.py
 4. Run facenet camera recognition
 ```
-python facenet/contributed/real_time_face_recognition.py
+cd facenet/contributed/
+python real_time_face_recognition.py
 ```
 
 ## Examples
